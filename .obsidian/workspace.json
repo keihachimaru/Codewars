@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "29fc088022191edb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a434a85913d8aade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce2f904f86547f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array.diff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dac7bffe5e3a01b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descending Order.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "266a12ca84cd165c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dee23fbf6811110d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25b1c145f579eeb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5103d4843afe57f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45d8e862eabd4aba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b9fcd7dd66bccf5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdd562669a775b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "037bddb7f4b5239f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Descending Order.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad0e36859ace8005",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Descending Order.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf6726411135447c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a516d60212ee877",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Descending Order.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1dac7bffe5e3a01b",
+  "lastOpenFiles": [
+    "Replace With Alphabet Position.md",
+    "Descending Order.md",
+    "Array.diff.md",
+    "Vowel Count.md",
+    "7 kyu.md"
+  ]
+}
