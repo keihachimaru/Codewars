@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a434a85913d8aade",
+        "id": "cf1c91d812694a0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ce2f904f86547f97",
+            "id": "49e7e5a10e4ca139",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array.diff.md",
+                "file": "You're a square.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1dac7bffe5e3a01b",
+            "id": "0ffbcfb3514dab3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Descending Order.md",
+                "file": "Number of People in the Bus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00cdc9f66c8ca383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equal Sides Of An Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 202.5
   },
   "right": {
     "id": "b9fcd7dd66bccf5e",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Descending Order.md",
+                "file": "Equal Sides Of An Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Descending Order.md",
+                "file": "Equal Sides Of An Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Descending Order.md"
+                "file": "Equal Sides Of An Array.md"
               }
             }
           }
@@ -160,12 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dac7bffe5e3a01b",
+  "active": "00cdc9f66c8ca383",
   "lastOpenFiles": [
-    "Replace With Alphabet Position.md",
-    "Descending Order.md",
     "Array.diff.md",
+    "Equal Sides Of An Array.md",
+    "Descending Order.md",
+    "Isograms.md",
+    "Number of People in the Bus.md",
+    "Replace With Alphabet Position.md",
     "Vowel Count.md",
+    "You're a square.md",
     "7 kyu.md"
   ]
 }
