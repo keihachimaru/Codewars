@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e510b2daca9fc5ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Count the smiley faces!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "String incrementer.md",
+                "file": "Count the smiley faces!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "String incrementer.md",
+                "file": "Count the smiley faces!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "String incrementer.md"
+                "file": "Count the smiley faces!.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f92d631b6e30720",
+  "active": "e510b2daca9fc5ee",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Count the smiley faces!.md",
+    "String incrementer.md",
     "Binary Addition.md",
     "Product of consecutive Fib numbers.md",
     "Persistent Bugger.md",
@@ -157,7 +173,6 @@
     "You're a square.md",
     "Number of People in the Bus.md",
     "Vowel Count.md",
-    "String incrementer.md",
     "Replace With Alphabet Position.md",
     "Array.diff.md",
     "7 kyu.md"
