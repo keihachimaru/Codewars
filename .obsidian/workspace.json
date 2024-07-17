@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cf1c91d812694a0b",
+        "id": "7db78cd82dd78322",
         "type": "tabs",
         "children": [
           {
-            "id": "49e7e5a10e4ca139",
+            "id": "6f92d631b6e30720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "You're a square.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ffbcfb3514dab3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Number of People in the Bus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00cdc9f66c8ca383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equal Sides Of An Array.md",
+                "file": "String incrementer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equal Sides Of An Array.md",
+                "file": "String incrementer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equal Sides Of An Array.md",
+                "file": "String incrementer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equal Sides Of An Array.md"
+                "file": "String incrementer.md"
               }
             }
           }
@@ -171,16 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00cdc9f66c8ca383",
+  "active": "6f92d631b6e30720",
   "lastOpenFiles": [
-    "Array.diff.md",
+    "Binary Addition.md",
+    "Product of consecutive Fib numbers.md",
+    "Persistent Bugger.md",
     "Equal Sides Of An Array.md",
     "Descending Order.md",
     "Isograms.md",
-    "Number of People in the Bus.md",
-    "Replace With Alphabet Position.md",
-    "Vowel Count.md",
     "You're a square.md",
+    "Number of People in the Bus.md",
+    "Vowel Count.md",
+    "String incrementer.md",
+    "Replace With Alphabet Position.md",
+    "Array.diff.md",
     "7 kyu.md"
   ]
 }
