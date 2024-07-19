@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "7db78cd82dd78322",
+        "id": "c28c5522f0e7108b",
         "type": "tabs",
         "children": [
           {
-            "id": "6f92d631b6e30720",
+            "id": "fdcc9085524fc3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String incrementer.md",
+                "file": "Can you get the loop.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e510b2daca9fc5ee",
+            "id": "5d3eb447838fa9f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Count the smiley faces!.md",
+                "file": "Common Denominators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "736b53431f4a3111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perimeter of squares in a rectangle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Count the smiley faces!.md",
+                "file": "Perimeter of squares in a rectangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Count the smiley faces!.md",
+                "file": "Perimeter of squares in a rectangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Count the smiley faces!.md"
+                "file": "Perimeter of squares in a rectangle.md"
               }
             }
           }
@@ -159,9 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e510b2daca9fc5ee",
+  "active": "736b53431f4a3111",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Common Denominators.md",
+    "Perimeter of squares in a rectangle.md",
+    "Can you get the loop.md",
+    "Highest and Lowest.md",
     "Count the smiley faces!.md",
     "String incrementer.md",
     "Binary Addition.md",
