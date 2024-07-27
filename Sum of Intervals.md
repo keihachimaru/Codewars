@@ -1,4 +1,4 @@
-# Sum of Intervals
+# Sum of Intervals [4 kyu]
 
 #algorithms #performance 
 

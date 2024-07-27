@@ -1,4 +1,4 @@
-# Human Readable Time
+# Human Readable Time [5 kyu]
 
 #date_time #mathematics #algorithms
 

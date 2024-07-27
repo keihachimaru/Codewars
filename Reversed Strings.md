@@ -1,5 +1,5 @@
   
-# Reversed Strings
+# Reversed Strings [7 kyu]
 
 #strings #fundamentals 
 
